@@ -5,7 +5,7 @@ import base64
 import requests
 
 #Set the REPLICATE_API_TOKEN environment variable
-os.environ["REPLICATE_API_TOKEN"] = "r8_T6DZZrt40fWjdtOxtrYyOp74T8eXS9f47r1ng"
+os.environ["REPLICATE_API_TOKEN"] = ""
 
 def get_color_palette(style):
     if style == "Modern":
