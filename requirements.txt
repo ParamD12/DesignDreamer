@@ -1,0 +1,8 @@
+streamlit
+streamlit_option_menu 
+os
+replicate
+requests
+streamlit_image_select
+htbuilder
+pathlib
