@@ -59,7 +59,7 @@ Before you can start using the Design Dreamer: AI Interior Designer, make sure y
 
 ## Getting Started
 
-To get started with the MinerGuide Bot, you need to:
+To get started with Design Dreamer, you need to:
 
 1. Set up your environment and install the required packages as described in the Installation section.
 
